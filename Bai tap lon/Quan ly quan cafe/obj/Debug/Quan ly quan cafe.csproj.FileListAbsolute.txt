@@ -1,0 +1,14 @@
+D:\College courses\Winforms Programming\Bai tap lon\Quan ly quan cafe\bin\Debug\Quan ly quan cafe.exe.config
+D:\College courses\Winforms Programming\Bai tap lon\Quan ly quan cafe\bin\Debug\Quan ly quan cafe.exe
+D:\College courses\Winforms Programming\Bai tap lon\Quan ly quan cafe\bin\Debug\Quan ly quan cafe.pdb
+D:\College courses\Winforms Programming\Bai tap lon\Quan ly quan cafe\obj\Debug\Quan ly quan cafe.csproj.AssemblyReference.cache
+D:\College courses\Winforms Programming\Bai tap lon\Quan ly quan cafe\obj\Debug\Quan_ly_quan_cafe.fLogin.resources
+D:\College courses\Winforms Programming\Bai tap lon\Quan ly quan cafe\obj\Debug\Quan_ly_quan_cafe.Properties.Resources.resources
+D:\College courses\Winforms Programming\Bai tap lon\Quan ly quan cafe\obj\Debug\Quan ly quan cafe.csproj.GenerateResource.cache
+D:\College courses\Winforms Programming\Bai tap lon\Quan ly quan cafe\obj\Debug\Quan ly quan cafe.csproj.CoreCompileInputs.cache
+D:\College courses\Winforms Programming\Bai tap lon\Quan ly quan cafe\obj\Debug\Quan ly quan cafe.exe
+D:\College courses\Winforms Programming\Bai tap lon\Quan ly quan cafe\obj\Debug\Quan ly quan cafe.pdb
+D:\College courses\Winforms Programming\Bai tap lon\Quan ly quan cafe\obj\Debug\Quan_ly_quan_cafe.fMain.resources
+D:\College courses\Winforms Programming\Bai tap lon\Quan ly quan cafe\obj\Debug\Quan_ly_quan_cafe.AdminQLNV.resources
+D:\College courses\Winforms Programming\Bai tap lon\Quan ly quan cafe\obj\Debug\Quan_ly_quan_cafe.AdminQLDA.resources
+D:\College courses\Winforms Programming\Bai tap lon\Quan ly quan cafe\obj\Debug\Quan_ly_quan_cafe.AdminTaoHD.resources
