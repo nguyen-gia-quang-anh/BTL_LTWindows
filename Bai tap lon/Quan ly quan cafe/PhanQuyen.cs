@@ -12,7 +12,7 @@ namespace Quan_ly_quan_cafe
     public class PhanQuyenUser
     {
         // bien toan cục
-        public static bool AccountType;
+        public static bool AccountType = true;
         public static string UserName;
         public static string Name;
 

@@ -14,7 +14,7 @@ namespace Quan_ly_quan_cafe
     public partial class fLogin : Form
     {
         // Khoi tao chuoi ket noi
-        string connectionString = "Data Source=DESKTOP-QL3212H\\SQLEXPRESS;Initial Catalog = QLCoffee;Integrated Security=True";
+        string connectionString = "Data Source=quanhlap;Initial Catalog=QLCoffee;Integrated Security=True";
         SqlConnection conn = null;
         int x = 2;
         public fLogin()
@@ -40,7 +40,7 @@ namespace Quan_ly_quan_cafe
             }
             catch (Exception ex)
             {
-                MessageBox.Show("Erro", "Error", MessageBoxButtons.OK);
+                MessageBox.Show("Error", "Error", MessageBoxButtons.OK);
             }
         }
 

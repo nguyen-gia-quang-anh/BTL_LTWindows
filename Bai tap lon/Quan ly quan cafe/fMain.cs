@@ -18,7 +18,7 @@ namespace Quan_ly_quan_cafe
         public fMain()
         {
             InitializeComponent();
-            Console.OutputEncoding = Encoding.UTF8;
+            //Console.OutputEncoding = Encoding.UTF8;
         }
         // Ham nay de phan quyen user
         void Decentralization()

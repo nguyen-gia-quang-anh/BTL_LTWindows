@@ -93,8 +93,6 @@ insert into QLSP values ('SP08',N'Mocktail Virgin Pinacolada', 120000, N'Đồ u
 insert into QLSP values ('SP09',N'Cocktail Margarita', 80000, N'Đồ uống',0)
 insert into QLSP values ('SP10',N'Cocktail Espresso Martini', 250000, N'Đồ uống',0)
 
-delete from QLSP
-
 select * from QLSP
 
 

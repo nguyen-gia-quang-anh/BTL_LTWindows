@@ -12,3 +12,17 @@ D:\College courses\Winforms Programming\Bai tap lon\Quan ly quan cafe\obj\Debug\
 D:\College courses\Winforms Programming\Bai tap lon\Quan ly quan cafe\obj\Debug\Quan_ly_quan_cafe.AdminQLNV.resources
 D:\College courses\Winforms Programming\Bai tap lon\Quan ly quan cafe\obj\Debug\Quan_ly_quan_cafe.AdminQLDA.resources
 D:\College courses\Winforms Programming\Bai tap lon\Quan ly quan cafe\obj\Debug\Quan_ly_quan_cafe.AdminTaoHD.resources
+C:\Users\quanh\Documents\GitHub\BTL_LTWindows\Bai tap lon\Quan ly quan cafe\bin\Debug\Quan ly quan cafe.exe.config
+C:\Users\quanh\Documents\GitHub\BTL_LTWindows\Bai tap lon\Quan ly quan cafe\bin\Debug\Quan ly quan cafe.exe
+C:\Users\quanh\Documents\GitHub\BTL_LTWindows\Bai tap lon\Quan ly quan cafe\bin\Debug\Quan ly quan cafe.pdb
+C:\Users\quanh\Documents\GitHub\BTL_LTWindows\Bai tap lon\Quan ly quan cafe\obj\Debug\Quan ly quan cafe.csproj.AssemblyReference.cache
+C:\Users\quanh\Documents\GitHub\BTL_LTWindows\Bai tap lon\Quan ly quan cafe\obj\Debug\Quan_ly_quan_cafe.AdminQLDA.resources
+C:\Users\quanh\Documents\GitHub\BTL_LTWindows\Bai tap lon\Quan ly quan cafe\obj\Debug\Quan_ly_quan_cafe.AdminQLNV.resources
+C:\Users\quanh\Documents\GitHub\BTL_LTWindows\Bai tap lon\Quan ly quan cafe\obj\Debug\Quan_ly_quan_cafe.AdminTaoHD.resources
+C:\Users\quanh\Documents\GitHub\BTL_LTWindows\Bai tap lon\Quan ly quan cafe\obj\Debug\Quan_ly_quan_cafe.fMain.resources
+C:\Users\quanh\Documents\GitHub\BTL_LTWindows\Bai tap lon\Quan ly quan cafe\obj\Debug\Quan_ly_quan_cafe.Properties.Resources.resources
+C:\Users\quanh\Documents\GitHub\BTL_LTWindows\Bai tap lon\Quan ly quan cafe\obj\Debug\Quan ly quan cafe.csproj.GenerateResource.cache
+C:\Users\quanh\Documents\GitHub\BTL_LTWindows\Bai tap lon\Quan ly quan cafe\obj\Debug\Quan ly quan cafe.csproj.CoreCompileInputs.cache
+C:\Users\quanh\Documents\GitHub\BTL_LTWindows\Bai tap lon\Quan ly quan cafe\obj\Debug\Quan ly quan cafe.exe
+C:\Users\quanh\Documents\GitHub\BTL_LTWindows\Bai tap lon\Quan ly quan cafe\obj\Debug\Quan ly quan cafe.pdb
+C:\Users\quanh\Documents\GitHub\BTL_LTWindows\Bai tap lon\Quan ly quan cafe\obj\Debug\Quan_ly_quan_cafe.fLogin.resources
