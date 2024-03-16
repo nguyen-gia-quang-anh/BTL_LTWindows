@@ -14,7 +14,7 @@ namespace Quan_ly_quan_cafe
     public partial class AdminQLNV : UserControl
     {
         // Khoi tao chuoi ket noi
-        string connectionString = "Data Source=DESKTOP-QL3212H\\SQLEXPRESS;Initial Catalog = QLCoffee;Integrated Security=True";
+        string connectionString = "Data Source=quanhlap;Initial Catalog=QLCoffee;Integrated Security=True";
         SqlConnection conn = null;
         DataTable dtTB_QLNV;
         SqlDataAdapter adptQLNV;
@@ -37,7 +37,7 @@ namespace Quan_ly_quan_cafe
                 if (conn.State != ConnectionState.Open)
                 {
                     conn.Open();
-                    //MessageBox.Show("", "Info", MessageBoxButtons.OK);
+                    MessageBox.Show("Ok", "info", MessageBoxButtons.OK);
                 }
             }
             catch (Exception ex)

@@ -92,10 +92,13 @@ insert into QLSP values ('SP07',N'Mocktail Cinderella', 150000, N'Đồ uống',
 insert into QLSP values ('SP08',N'Mocktail Virgin Pinacolada', 120000, N'Đồ uống',0)
 insert into QLSP values ('SP09',N'Cocktail Margarita', 80000, N'Đồ uống',0)
 insert into QLSP values ('SP10',N'Cocktail Espresso Martini', 250000, N'Đồ uống',0)
+insert into QLSP values ('SP11',N'Bánh sừng bò hạnh nhân', 53000, N'Đồ ăn',0)
+insert into QLSP values ('SP12',N'Bánh mỳ cuộn nho khô',50000, N'Đồ ăn',0)
+insert into QLSP values ('SP13',N'Bánh mỳ chuối',50000, N'Đồ ăn',0)
+insert into QLSP values ('SP14',N'Bánh ngàn lớp phô mai kem',45000, N'Đồ ăn',0)
+insert into QLSP values ('SP15',N'Bánh kếp với si rô cây phong',48000, N'Đồ ăn',0)
 
 select * from QLSP
-
-
 
 
 
