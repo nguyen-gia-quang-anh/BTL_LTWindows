@@ -34,6 +34,10 @@
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.label3 = new System.Windows.Forms.Label();
             this.panel3 = new System.Windows.Forms.Panel();
+            this.adminThongKe = new Quan_ly_quan_cafe.AdminThongKe();
+            this.adminTaoHD = new Quan_ly_quan_cafe.AdminTaoHD();
+            this.adminQLDA = new Quan_ly_quan_cafe.AdminQLDA();
+            this.adminQLNV = new Quan_ly_quan_cafe.AdminQLNV();
             this.pictureBox2 = new System.Windows.Forms.PictureBox();
             this.exitBtn_2 = new System.Windows.Forms.Label();
             this.panel1 = new System.Windows.Forms.Panel();
@@ -42,9 +46,6 @@
             this.btnQLNV = new System.Windows.Forms.Button();
             this.btn_QLSP = new System.Windows.Forms.Button();
             this.btn_TaoHD = new System.Windows.Forms.Button();
-            this.adminTaoHD = new Quan_ly_quan_cafe.AdminTaoHD();
-            this.adminQLDA = new Quan_ly_quan_cafe.AdminQLDA();
-            this.adminQLNV = new Quan_ly_quan_cafe.AdminQLNV();
             this.panel2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.panel3.SuspendLayout();
@@ -110,6 +111,7 @@
             // 
             // panel3
             // 
+            this.panel3.Controls.Add(this.adminThongKe);
             this.panel3.Controls.Add(this.adminTaoHD);
             this.panel3.Controls.Add(this.adminQLDA);
             this.panel3.Controls.Add(this.adminQLNV);
@@ -121,6 +123,38 @@
             this.panel3.Name = "panel3";
             this.panel3.Size = new System.Drawing.Size(1424, 802);
             this.panel3.TabIndex = 1;
+            // 
+            // adminThongKe
+            // 
+            this.adminThongKe.BackColor = System.Drawing.Color.White;
+            this.adminThongKe.Location = new System.Drawing.Point(322, 58);
+            this.adminThongKe.Name = "adminThongKe";
+            this.adminThongKe.Size = new System.Drawing.Size(1128, 763);
+            this.adminThongKe.TabIndex = 3;
+            // 
+            // adminTaoHD
+            // 
+            this.adminTaoHD.BackColor = System.Drawing.SystemColors.Control;
+            this.adminTaoHD.Location = new System.Drawing.Point(322, 54);
+            this.adminTaoHD.Name = "adminTaoHD";
+            this.adminTaoHD.Size = new System.Drawing.Size(1130, 767);
+            this.adminTaoHD.TabIndex = 11;
+            // 
+            // adminQLDA
+            // 
+            this.adminQLDA.BackColor = System.Drawing.SystemColors.Control;
+            this.adminQLDA.Location = new System.Drawing.Point(294, 35);
+            this.adminQLDA.Name = "adminQLDA";
+            this.adminQLDA.Size = new System.Drawing.Size(1130, 767);
+            this.adminQLDA.TabIndex = 10;
+            // 
+            // adminQLNV
+            // 
+            this.adminQLNV.BackColor = System.Drawing.SystemColors.Control;
+            this.adminQLNV.Location = new System.Drawing.Point(294, 35);
+            this.adminQLNV.Name = "adminQLNV";
+            this.adminQLNV.Size = new System.Drawing.Size(1130, 767);
+            this.adminQLNV.TabIndex = 9;
             // 
             // pictureBox2
             // 
@@ -186,6 +220,7 @@
             this.btn_TK.TabIndex = 14;
             this.btn_TK.Text = "Thống kê";
             this.btn_TK.UseVisualStyleBackColor = false;
+            this.btn_TK.Click += new System.EventHandler(this.btn_TK_Click);
             // 
             // btnQLNV
             // 
@@ -229,30 +264,6 @@
             this.btn_TaoHD.UseVisualStyleBackColor = false;
             this.btn_TaoHD.Click += new System.EventHandler(this.btn_TaoHD_Click);
             // 
-            // adminTaoHD
-            // 
-            this.adminTaoHD.BackColor = System.Drawing.SystemColors.Control;
-            this.adminTaoHD.Location = new System.Drawing.Point(294, 35);
-            this.adminTaoHD.Name = "adminTaoHD";
-            this.adminTaoHD.Size = new System.Drawing.Size(1130, 767);
-            this.adminTaoHD.TabIndex = 11;
-            // 
-            // adminQLDA
-            // 
-            this.adminQLDA.BackColor = System.Drawing.SystemColors.Control;
-            this.adminQLDA.Location = new System.Drawing.Point(294, 35);
-            this.adminQLDA.Name = "adminQLDA";
-            this.adminQLDA.Size = new System.Drawing.Size(1130, 767);
-            this.adminQLDA.TabIndex = 10;
-            // 
-            // adminQLNV
-            // 
-            this.adminQLNV.BackColor = System.Drawing.SystemColors.Control;
-            this.adminQLNV.Location = new System.Drawing.Point(294, 35);
-            this.adminQLNV.Name = "adminQLNV";
-            this.adminQLNV.Size = new System.Drawing.Size(1130, 767);
-            this.adminQLNV.TabIndex = 9;
-            // 
             // fMain
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
@@ -265,7 +276,7 @@
             this.MaximumSize = new System.Drawing.Size(1440, 815);
             this.Name = "fMain";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Phần mềm quản lí quán cafe";
+            this.Text = " ";
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.fMain_FormClosing);
             this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.fMain_FormClosed);
             this.Load += new System.EventHandler(this.fMain_FormLoad);
@@ -296,5 +307,6 @@
         private AdminQLDA adminQLDA;
         private AdminTaoHD adminTaoHD;
         private System.Windows.Forms.PictureBox pictureBox2;
+        private AdminThongKe adminThongKe;
     }
 }

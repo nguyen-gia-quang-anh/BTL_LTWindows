@@ -12,3 +12,19 @@ D:\College courses\Winforms Programming\Bai tap lon\Quan ly quan cafe\obj\Debug\
 D:\College courses\Winforms Programming\Bai tap lon\Quan ly quan cafe\obj\Debug\Quan_ly_quan_cafe.AdminQLNV.resources
 D:\College courses\Winforms Programming\Bai tap lon\Quan ly quan cafe\obj\Debug\Quan_ly_quan_cafe.AdminQLDA.resources
 D:\College courses\Winforms Programming\Bai tap lon\Quan ly quan cafe\obj\Debug\Quan_ly_quan_cafe.AdminTaoHD.resources
+E:\BT_LON_C#_PTTK\BTL_LTWindows\Bai tap lon\Quan ly quan cafe\bin\Debug\Quan ly quan cafe.exe.config
+E:\BT_LON_C#_PTTK\BTL_LTWindows\Bai tap lon\Quan ly quan cafe\bin\Debug\Quan ly quan cafe.exe
+E:\BT_LON_C#_PTTK\BTL_LTWindows\Bai tap lon\Quan ly quan cafe\bin\Debug\Quan ly quan cafe.pdb
+E:\BT_LON_C#_PTTK\BTL_LTWindows\Bai tap lon\Quan ly quan cafe\obj\Debug\Quan ly quan cafe.csproj.AssemblyReference.cache
+E:\BT_LON_C#_PTTK\BTL_LTWindows\Bai tap lon\Quan ly quan cafe\obj\Debug\Quan_ly_quan_cafe.AdminQLDA.resources
+E:\BT_LON_C#_PTTK\BTL_LTWindows\Bai tap lon\Quan ly quan cafe\obj\Debug\Quan_ly_quan_cafe.AdminQLNV.resources
+E:\BT_LON_C#_PTTK\BTL_LTWindows\Bai tap lon\Quan ly quan cafe\obj\Debug\Quan_ly_quan_cafe.AdminTaoHD.resources
+E:\BT_LON_C#_PTTK\BTL_LTWindows\Bai tap lon\Quan ly quan cafe\obj\Debug\Quan_ly_quan_cafe.fLogin.resources
+E:\BT_LON_C#_PTTK\BTL_LTWindows\Bai tap lon\Quan ly quan cafe\obj\Debug\Quan_ly_quan_cafe.fMain.resources
+E:\BT_LON_C#_PTTK\BTL_LTWindows\Bai tap lon\Quan ly quan cafe\obj\Debug\Quan_ly_quan_cafe.Properties.Resources.resources
+E:\BT_LON_C#_PTTK\BTL_LTWindows\Bai tap lon\Quan ly quan cafe\obj\Debug\Quan_ly_quan_cafe.ThongKe.resources
+E:\BT_LON_C#_PTTK\BTL_LTWindows\Bai tap lon\Quan ly quan cafe\obj\Debug\Quan ly quan cafe.csproj.GenerateResource.cache
+E:\BT_LON_C#_PTTK\BTL_LTWindows\Bai tap lon\Quan ly quan cafe\obj\Debug\Quan ly quan cafe.csproj.CoreCompileInputs.cache
+E:\BT_LON_C#_PTTK\BTL_LTWindows\Bai tap lon\Quan ly quan cafe\obj\Debug\Quan ly quan cafe.exe
+E:\BT_LON_C#_PTTK\BTL_LTWindows\Bai tap lon\Quan ly quan cafe\obj\Debug\Quan ly quan cafe.pdb
+E:\BT_LON_C#_PTTK\BTL_LTWindows\Bai tap lon\Quan ly quan cafe\obj\Debug\Quan_ly_quan_cafe.AdminThongKe.resources

@@ -132,7 +132,7 @@
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "fLogin";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Login";
+            this.Text = "S";
             this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.fLogin_FormClosed);
             this.Load += new System.EventHandler(this.fLogin_Load);
             this.ResumeLayout(false);

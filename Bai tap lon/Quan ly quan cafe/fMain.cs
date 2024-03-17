@@ -18,7 +18,7 @@ namespace Quan_ly_quan_cafe
         public fMain()
         {
             InitializeComponent();
-            Console.OutputEncoding = Encoding.UTF8;
+            
         }
         // Ham nay de phan quyen user
         void Decentralization()
@@ -76,6 +76,7 @@ namespace Quan_ly_quan_cafe
             adminTaoHD.Visible = true;
             adminQLDA.Visible = false;
             adminQLNV.Visible = false;
+            adminThongKe.Visible = false;
         }
 
         private void btn_QLSP_Click(object sender, EventArgs e)
@@ -83,6 +84,7 @@ namespace Quan_ly_quan_cafe
             adminTaoHD.Visible = false;
             adminQLDA.Visible = true;
             adminQLNV.Visible = false;
+            adminThongKe.Visible = false;
         }
 
         private void btnQLNV_Click(object sender, EventArgs e)
@@ -90,6 +92,16 @@ namespace Quan_ly_quan_cafe
             adminTaoHD.Visible = false;
             adminQLDA.Visible = false;
             adminQLNV.Visible = true;
+            adminThongKe.Visible = false;
+        }
+
+        private void btn_TK_Click(object sender, EventArgs e)
+        {
+            adminTaoHD.Visible = false;
+            adminQLDA.Visible = false;
+            adminQLNV.Visible = false;
+            adminThongKe.Visible = true;
+
         }
     }
 }
